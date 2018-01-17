@@ -1,0 +1,10 @@
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\obj\Debug\Simulation_Amöben_und Bakterien_Evolution.csprojResolveAssemblyReference.cache
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\obj\Debug\Simulation_Amöben_und_Bakterien_Evolution.Form1.resources
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\obj\Debug\Simulation_Amöben_und_Bakterien_Evolution.Properties.Resources.resources
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\obj\Debug\Simulation_Amöben_und Bakterien_Evolution.csproj.GenerateResource.Cache
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\obj\Debug\Simulation_Amöben_und Bakterien_Evolution.csproj.CoreCompileInputs.cache
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\bin\Debug\Simulation_Amöben_und Bakterien_Evolution.exe.config
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\bin\Debug\Simulation_Amöben_und Bakterien_Evolution.exe
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\bin\Debug\Simulation_Amöben_und Bakterien_Evolution.pdb
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\obj\Debug\Simulation_Amöben_und Bakterien_Evolution.exe
+C:\Users\kjaehnke\source\repos\SImulation Amöben und Bakterien\Simulation_Amöben_und Bakterien_Evolution\obj\Debug\Simulation_Amöben_und Bakterien_Evolution.pdb

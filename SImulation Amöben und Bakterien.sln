@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amöben", "SImulation Amöben und Bakterien\Amöben.csproj", "{5B8601A9-4623-4181-A19B-7878437101E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulation_Amöben_und Bakterien_Evolution", "Simulation_Amöben_und Bakterien_Evolution\Simulation_Amöben_und Bakterien_Evolution.csproj", "{1630D31F-541A-4546-BAFC-2E97EAE9AAF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B8601A9-4623-4181-A19B-7878437101E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8601A9-4623-4181-A19B-7878437101E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8601A9-4623-4181-A19B-7878437101E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8601A9-4623-4181-A19B-7878437101E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1630D31F-541A-4546-BAFC-2E97EAE9AAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1630D31F-541A-4546-BAFC-2E97EAE9AAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1630D31F-541A-4546-BAFC-2E97EAE9AAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1630D31F-541A-4546-BAFC-2E97EAE9AAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E3458D-5E90-4E93-A9F9-87F607FAE2F4}
+	EndGlobalSection
+EndGlobal
